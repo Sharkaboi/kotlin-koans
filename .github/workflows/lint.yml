@@ -1,0 +1,17 @@
+name: KtLint workflow
+
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+     # Runs KtLint on Rep.
+    - uses: actions/checkout@v2
+    - name: Kotlin Linter
+      uses: vroy/gha-kotlin-linter@v2
+
+
