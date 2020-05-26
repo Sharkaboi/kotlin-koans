@@ -1,7 +1,7 @@
 # Kotlin Koans
 
-<a href="https://github.com/Sharkaboi/kotlin-koans/actions" alt="KtLint Check">
-<img src="https://github.com/Sharkaboi/kotlin-koans" /></a>
+<a href="https://github.com/Sharkaboi/kotlin-koans/actions?query=workflow%3A%22KtLint+workflow%22" alt="KtLint Check">
+<img src="https://github.com/Sharkaboi/kotlin-koans/workflows/KtLint%20workflow/badge.svg?branch=master" /></a>
 <a href="https://github.com/JetBrains/kotlin/releases/tag/v1.3.72" alt="Kotlin">
 <img src="https://img.shields.io/badge/Kotlin-13.7.2-blue" /></a>
 <a href="https://github.com/Sharkaboi/kotlin-koans/blob/master/LICENSE" alt="License">
