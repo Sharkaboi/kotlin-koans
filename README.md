@@ -1,6 +1,5 @@
 # Kotlin Koans
 
-[![official JetBrains project](https://jb.gg/badges/official-plastic.svg)](https://confluence.jetbrains.com/display/ALL/JetBrains+on+GitHub)
 <a href="https://github.com/Sharkaboi/kotlin-koans/actions" alt="KtLint Check">
 <img src="https://github.com/Sharkaboi/kotlin-koans" /></a>
 <a href="https://github.com/JetBrains/kotlin/releases/tag/v1.3.72" alt="Kotlin">
