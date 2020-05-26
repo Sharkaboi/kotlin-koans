@@ -12,6 +12,9 @@
 
 Kotlin Koans are a series of exercises to get you familiar with the Kotlin Syntax.
 Each exercise is created as a failing unit test and your job is to make it pass.
+
+Rep for maintaining solutions for Kotlin Koans by Jetbrains.
+
 You can work with Kotlin Koans in one of the following ways:
 
 - You can play with Koans [online](https://play.kotlinlang.org/koans/overview).
@@ -21,4 +24,4 @@ You can work with Kotlin Koans in one of the following ways:
 and [choosing Kotlin Koans course](https://www.jetbrains.com/help/education/learner-start-guide.html?section=Kotlin%20Koans).
 
 You don't need this project if you want to solve the tasks. Install the educational plugin or do it online.
-This project contains the task content, so if you want to contribute any changes to the existing tasks or new tasks, please submit new pull request.
+This project contains the task content, so if you want to contribute any better solutions to the existing tasks or new tasks, please submit new pull request.
