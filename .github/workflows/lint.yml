@@ -9,8 +9,8 @@ jobs:
   lint:
     runs-on: ubuntu-latest
     steps:
-     # Runs KtLint on Rep.
     - uses: actions/checkout@v2
+     # Runs KtLint on Rep.
     - name: Kotlin Linter
       uses: vroy/gha-kotlin-linter@v2
 
